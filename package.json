@@ -8,8 +8,11 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "bin":"node ./bin/index.js"
+    "bin": "node ./bin/index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-cmd": "^3.0.0"
+  }
 }

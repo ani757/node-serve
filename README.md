@@ -1,7 +1,3 @@
-# we need JS->ast->c
-
-We all know that every developer loves C language, but the professional problems of front-end engineers make them not have a deep understanding of C language. So I hope to develop a compilation template to help front-end engineers understand the meaning of a JS statement in C language.
-
-## My ideas passed node.js Translated into ast tree, then compiled into C language, specially invited you to jointly develop, thank you - 2020 / 10 /15
-
-we are need your help.
+ ## my github is not gitee.com ，my github is updata to github.com ;name is ani- 619; if you love me code ellint ,you can see me github ,l will git you a chuajian ,you can week  in vscode and hbuilderx ; 
+ ## l will read node.js api , study it , the time of l also study compiler ,l hope write a frame ;this frame can 
+ ## js->C ;
